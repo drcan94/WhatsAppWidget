@@ -1,7 +1,7 @@
 # WhatsApp Widget Project
 
-This project is a simple component to implement WhatsApp to your React Projects
-
+This project (inspired by [react-whatsapp-widget](https://github.com/ann0nip/react-whatsapp-widget)) is a simple component to implement WhatsApp to your React Projects.
+REA
 ## Available Scripts
 
 ### In the project directory, you can run (After `npm i` command):
